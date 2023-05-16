@@ -1,3 +1,7 @@
+spot_secrets.py
+Output/*
+charts.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
