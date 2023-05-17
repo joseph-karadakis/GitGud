@@ -6,6 +6,6 @@ To examine this question, data was obtained from www.kaggle.com/datasets/paradis
 
 A stacked bar chart was created to visualize the changes in genres preference over time. The top two genres, "pop" and "hip pop" remains the top two genres during this time frame. 
 
-To quantify the data, two pie charts were created to show the most popular genres in 2008 and 2019. Both "pop" and "hip pop" made up the top two genres -- with approximately 85% and 91% of the top song streamed in 2008 and 2019 (respectively) from these two genres. Interestingly,
+To quantify the data, two pie charts were created to show the most popular genres in 2008 and 2019. Both "pop" and "hip pop" made up the top two genres -- with approximately 85% and 91% of the top song streamed in 2008 and 2019 (respectively) coming from these two genres. 
 
 In conclusion, there does not appear to be a change in genres preference between 2000 to 2019. 
