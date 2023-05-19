@@ -9,3 +9,5 @@ After that we do an analysis of preference of music genre over time and if it is
 All sources cited on individual Readme files within the student folders
 
 All resources/outputs reside within student folders
+
+link to the presentation deck: https://docs.google.com/presentation/d/1J8k1Z3kVEKYEB1KESSGwm0de8VHDo9pw_9qEycyVBOI/edit?usp=sharing
