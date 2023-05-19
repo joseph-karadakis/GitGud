@@ -7,4 +7,5 @@ Grabbing track audio features using the Spotify API and then exploring trends in
 After that we do an analysis of preference of music genre over time and if it is affected by large socioeconomic events. 
 
 All sources cited on individual Readme files within the student folders
+
 All resources/outputs reside within student folders
