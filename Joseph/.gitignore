@@ -1,10 +1,3 @@
-spot_secrets.py
-Output/*
-charts.csv
-ed_workshop.ipynb
-ref_ed_spotify_data.ipynb
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
